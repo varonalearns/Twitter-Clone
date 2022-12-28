@@ -59,8 +59,8 @@ What will be learned while following along with this practice project:
 
 ### Links
 
-- Solution URL: [Github Repo]()
-- Live Site URL: [Netlify Live Site]()
+- Solution URL: [Github Repo](https://github.com/varonalearns/Twitter-Clone)
+- Live Site URL: [Netlify Live Site](https://jazzy-marzipan-8ecf9f.netlify.app/)
 
 ## My process
 
@@ -75,6 +75,7 @@ What will be learned while following along with this practice project:
 
 
 ### Continued development
+
 
 
 ## Author
