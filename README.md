@@ -35,8 +35,6 @@ Happy Coding!
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
-    - [Continued development](#continued-development)
   - [Author](#author)
 
 ## Overview
@@ -55,7 +53,7 @@ What will be learned while following along with this practice project:
 
 ### Screenshot
 
-![Screenshot](images/ss.gif)
+![Screenshot](images/ss-desktop.gif)
 
 ### Links
 
@@ -69,14 +67,6 @@ What will be learned while following along with this practice project:
 - Semantic HTML5
 - CSS custom properties
 - Vanilla JavaScript
-
-### What I learned
-
-
-
-### Continued development
-
-
 
 ## Author
 
